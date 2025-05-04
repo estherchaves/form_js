@@ -24,3 +24,8 @@ Este projeto é um formulário simples criado com HTML, CSS e JavaScript. É a m
 
 ## Licença
 Este projeto é open-source e está disponível sob a Licença MIT.
+
+## Preview
+Veja a preview no Dribbble:
+   ```bash
+https://dribbble.com/shots/25980776-Simple-Login-Form?new_shot_upload=true&utm_source=Clipboard_Shot&utm_campaign=estherchaves&utm_content=Simple%20Login%20Form&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=estherchaves&utm_content=Simple%20Login%20Form&utm_medium=Social_Share
